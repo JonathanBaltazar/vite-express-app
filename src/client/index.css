@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Inter Tight", sans-serif;
+    font-family: "Poppins", sans-serif;
+}
+.home {
+    text-align: center;
+    margin-top: 40vh;
+    padding: 0 1rem;
+}
+.home h1 {
+    font-size: 3rem;
+}
